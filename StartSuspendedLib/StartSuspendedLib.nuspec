@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package>
+    <metadata>
+    <id>StartSuspendedLib.PieroViano</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>Piero Viano</authors>
+    <owners>Piero Viano</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Start Suspended Process Library</description>
+    <releaseNotes>First release</releaseNotes>
+    <copyright>Copyright 2018</copyright>
+    <tags>start application library</tags>
+    </metadata>
+</package>

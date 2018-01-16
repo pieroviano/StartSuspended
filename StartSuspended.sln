@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StartSuspended", "StartSuspended\StartSuspended.csproj", "{BE942D73-4C81-4D9D-A122-0D57F706082D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StartSuspendedLib", "StartSuspendedLib\StartSuspendedLib.csproj", "{B4D454A0-192A-475F-BFF0-8112250EFE7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE942D73-4C81-4D9D-A122-0D57F706082D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE942D73-4C81-4D9D-A122-0D57F706082D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE942D73-4C81-4D9D-A122-0D57F706082D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE942D73-4C81-4D9D-A122-0D57F706082D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4D454A0-192A-475F-BFF0-8112250EFE7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4D454A0-192A-475F-BFF0-8112250EFE7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4D454A0-192A-475F-BFF0-8112250EFE7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4D454A0-192A-475F-BFF0-8112250EFE7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98432401-E240-4E32-97E5-8032A287E138}
+	EndGlobalSection
+EndGlobal

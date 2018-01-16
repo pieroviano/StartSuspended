@@ -1,0 +1,12 @@
+E:\Esempi Sviluppo\StartSuspendedLib\bin\Debug\StartSuspendedLib.dll
+E:\Esempi Sviluppo\StartSuspendedLib\bin\Debug\StartSuspendedLib.pdb
+E:\Esempi Sviluppo\StartSuspendedLib\obj\Debug\StartSuspendedLib.csprojResolveAssemblyReference.cache
+E:\Esempi Sviluppo\StartSuspendedLib\obj\Debug\StartSuspendedLib.csproj.CoreCompileInputs.cache
+E:\Esempi Sviluppo\StartSuspendedLib\obj\Debug\StartSuspendedLib.dll
+E:\Esempi Sviluppo\StartSuspendedLib\obj\Debug\StartSuspendedLib.pdb
+E:\Esempi Sviluppo\StartSuspended\StartSuspendedLib\bin\Debug\StartSuspendedLib.dll
+E:\Esempi Sviluppo\StartSuspended\StartSuspendedLib\bin\Debug\StartSuspendedLib.pdb
+E:\Esempi Sviluppo\StartSuspended\StartSuspendedLib\obj\Debug\StartSuspendedLib.csprojResolveAssemblyReference.cache
+E:\Esempi Sviluppo\StartSuspended\StartSuspendedLib\obj\Debug\StartSuspendedLib.csproj.CoreCompileInputs.cache
+E:\Esempi Sviluppo\StartSuspended\StartSuspendedLib\obj\Debug\StartSuspendedLib.dll
+E:\Esempi Sviluppo\StartSuspended\StartSuspendedLib\obj\Debug\StartSuspendedLib.pdb
